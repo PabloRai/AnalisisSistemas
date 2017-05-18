@@ -4,7 +4,7 @@ Teoría hoja 23:
 	Según la imágen dada, existen dos burbujas (A y B) las cuales no aportan
 	nada al sistema, dado que son dos burbujas aisladas que no poseen entradas ni
 	salidas ya que sin importar el nivel del DFD cada burbúja debe poseer al menos 
-	una entrada y una salida.
+	dos entrada y una salida.
 
 2)
 	Dado que las burbujas primitvas no almacenan datos, sólo procesan, para que 
@@ -44,3 +44,5 @@ Teoría hoja 23:
 	En las metodologías ágiles se prioriza la rapidez con la cual el sistema avanza, y se utiliza un contrato por cada
 	nueva función o implementación del sistema, por eso es que el cliente está muy apegado al proyecto
 	(En una época el cliente estaba directamente con el grupo de desarrollo)
+
+
