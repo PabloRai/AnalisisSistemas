@@ -85,5 +85,44 @@ Teoría foto 1:
 
 
 
+Respuestas teoría página 18:
+
+	1)
+		Opción C):
+			El prototipo evolutivo tiene una alta volatidad a los cambios en las necesidades del cliente
+			Esto se debe a que en éste ciclio de vida, el primer prototipo se usan las funcionalidades que el grupo
+			de desarrollo más conocen, y se construye el sistema a partir de eso, el cliente puede pedir la modificación 
+			de ciertos requisitos ( todavía NO implementados en el sistema ) para su proxima entrega, a su vez se
+			tiene que tener una buena gestión de cambios, ya que de lo contrario el proyecto podría ser my costoso y
+			largo (eterno)
+
+	2)
+		Respuesta teorica pag 23 nro 5 =D
+
+	3)
+		La correlación entre el DFD y el DER es que en el DER se muestra la relación que poseen los almacenes del
+		DFD 
+		// Esto esta en la página 13 del resumen de 21 que pasé antes cuando habla de DER, en realidad
+		// dice "Enfatiza" las relaciones, porque también se ven en la especifiación de proceso (Pero no me acordaba)
+
+	4)
+		SE VIENE EL HUMO
+		La curva del paradigma orientada a objetos es más larga debido a qué como seres humanos, si bien vemos objetos en la vida
+		cotidiana, al resolver un problema pensamos en cómo hacerlo del lado del proceso para hacerlo, no de cómo los objetos se
+		relacionan para solucionar el problema.
+
+	5)
+		Se ven funcionalidades andando en poco tiempo
+		Hay una fuerte comunicación con el cliente
+		Está especialmente preparado para cambios recibir cambios en el proyecto
+
+		POR FAVOR QUE ALGUIEN ME DIGA 3 DE VERDAD QUE ESTO LO ACABO DE RAZONAR NOMAS
+
+
+
+
+
+
+
 
 
