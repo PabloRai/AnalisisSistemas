@@ -1,0 +1,46 @@
+Teoría hoja 23:
+
+1)
+	Según la imágen dada, existen dos burbujas (A y B) las cuales no aportan
+	nada al sistema, dado que son dos burbujas aisladas que no poseen entradas ni
+	salidas ya que sin importar el nivel del DFD cada burbúja debe poseer al menos 
+	una entrada y una salida.
+
+2)
+	Dado que las burbujas primitvas no almacenan datos, sólo procesan, para que 
+	una burbúja primitiva tenga una salida distinta a su entrada mínimo debe recibir
+	dos entradas.
+
+3)
+	No necesariamente todas las clases conceptuales deben ser objetos tangibles, en sistemas de ventas, 
+	no puede faltar la transacción principal "Venta" que representaría una clase conceptual la cual claramente no
+	es tangible.
+
+4) ESTO ES MEDIO HUMO:
+	No, de existir esta clase no aportaría nada al sistema, ya que mínimo debe tener 2 atributos:
+	Su id para identificarse y otro atributo que sería el que aportaría al sistema.
+	Por ejemplo: Tipo de combustible, posee 2 atributos, su id para identificarse y una descripción que
+	indica el tipo de combustible: "Nafta", "Gas", "Diesel"
+
+5)
+	Relevar es anotar todo lo que dice el cliente, es un proceso estático.
+	Elicitar: Es un proceso activo que se compone de dos partes bien definidas:
+		Extracción: Se obtienen datos e información mediante la lectura de documentos, formularios, etc.
+		Educción: Se obtienen datos de fuentes humanas:
+			· Stakeholders
+			· Personas indiretas
+			· Personjas del dominio
+			· Interactuadores (Envian un delegado o al jefe) 
+		La educción se realiza mediante distintas técnicas:
+			· Entrevistas (Abiertas o cerradas)
+			· Encuestas (Pueden contener preguntas cerradas de Si/No y algunas abiertas)
+			· Observación (Técnica pasiva)
+
+6)
+	El encargado de subsanarlo es el analista responsable
+	ESTO ES MUY CORTO PERO DIGAMOS QUE LA PREGUNTA NO AYUDA MUCHO.
+
+7) 
+	En las metodologías ágiles se prioriza la rapidez con la cual el sistema avanza, y se utiliza un contrato por cada
+	nueva función o implementación del sistema, por eso es que el cliente está muy apegado al proyecto
+	(En una época el cliente estaba directamente con el grupo de desarrollo)
