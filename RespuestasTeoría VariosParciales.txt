@@ -46,3 +46,34 @@ Teoría hoja 23:
 	(En una época el cliente estaba directamente con el grupo de desarrollo)
 
 
+Teoría foto 1:
+
+	1)
+		Las entidades del DER (Diagrama de entidad-relación) hacen referencia a las clases del modelo de dominio
+		ALGUNA IDEA DE SI LAS RELACIONES HACEN LO MISMO??
+
+	2) 
+		Si se omite un requisito funcional en la especificación de requisitos, el sistema no va a cumplir con 
+		las espectativas del cliente $$$, y dependiendo del ciclo de vida elegido y la etapa en la cual se detecte
+		la falta de éste requisito el costo puede ser muy alto.
+
+	3)
+		La relación de composición es una relación de alto acoplamiento entre dos clases, indica que una clase 
+		no puede vivir (no tiene razón de ser) sin la otra, un claro ejemplo es el acoplamiento entre
+		una línea de venta y una venta, la clase "Línea de venta" no tiene razón de existir si no existe una venta.
+		LO DE TIEMPO DE VIDA NO TENGO LA MÁS PUTA IDEA =)
+
+	4) 
+		La agregación genera bajo acoplamiento entre clases ya que ambas clases pueden existir (tienen razón
+		de ser) si la otra clase fuera removida del modelo de dominio del problema.
+		Ejemplo: Una computadora y sus partes
+			La computadora contiene un monitor, teclado, mouse y CPU que por separado pueden existir si la clase
+			computadora fuese eliminada.
+		PUSE ESTE EJEMPLO PERO NI IDEA SI ESTÁ BIEN, ES UN DETALLE (SUPONGO) //2
+
+	5) 
+		ESTO LO VIMOS RE POR ARRIBA PERO BUENO YO LE MANDO MECHA
+		La programación en pareja en XP consiste en que uno de los programadores programa mientras el otro
+		mira lo que su compañero está haciendo, de esta manera si se detecta un error o una mejora, el compañero
+		puede avisarle a la persona que está programando actualmente para corregirlo, a su vez se fomenta la
+		discusión sobre cómo realizar una determinada tarea y se logran resultados mejores en un tiempo menor.
