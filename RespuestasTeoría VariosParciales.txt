@@ -52,6 +52,11 @@ Teoría foto 1:
 		Las entidades del DER (Diagrama de entidad-relación) hacen referencia a las clases del modelo de dominio
 		ALGUNA IDEA DE SI LAS RELACIONES HACEN LO MISMO??
 
+		Adri:
+			Ambas describen características mediante atributos
+			Ambas establecen relaciones, luego esas relaciones tienen atributos
+		
+
 	2) 
 		Si se omite un requisito funcional en la especificación de requisitos, el sistema no va a cumplir con 
 		las espectativas del cliente $$$, y dependiendo del ciclo de vida elegido y la etapa en la cual se detecte
@@ -77,3 +82,8 @@ Teoría foto 1:
 		mira lo que su compañero está haciendo, de esta manera si se detecta un error o una mejora, el compañero
 		puede avisarle a la persona que está programando actualmente para corregirlo, a su vez se fomenta la
 		discusión sobre cómo realizar una determinada tarea y se logran resultados mejores en un tiempo menor.
+
+
+
+
+
